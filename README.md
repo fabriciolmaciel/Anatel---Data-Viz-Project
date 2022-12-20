@@ -1,4 +1,6 @@
 # Anatel - Data-Viz Project
+Projeto Disponível em: https://public.tableau.com/app/profile/fabricio2990/viz/Estudo_anateldata_viz/Dashboard5?publish=yes
+
  Study on telecom complaint rates 
  Para este projeto de visualização de dados, foram utilizadas as seguintes ferramentas: Python, Pandas, Numpy, Tableau
 
@@ -19,5 +21,4 @@ Fontes:
 https://informacoes.anatel.gov.br/paineis/consumidor/reclamacoes
 https://www.gov.br/mcom/pt-br/noticias/2022/setembro/aumenta-o-numero-de-domicilios-com-internet-no-brasil#:~:text=Isto%20%C3%A9%2C%20os%20brasileiros%20usu%C3%A1rios,%25%20para%2057%2C5%25.
 
-Projeto Disponível em: https://public.tableau.com/app/profile/fabricio2990/viz/Estudo_anateldata_viz/Dashboard5?publish=yes
 
