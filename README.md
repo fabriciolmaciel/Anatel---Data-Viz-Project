@@ -10,11 +10,9 @@ Os registros se dividem em quatro tipos: denúncia, reclamação, sugestão e pe
 
 
 Conclusões:
-#1) O período estudado apresenta uma diminuição significativa no número de reclamações , o que pode ser verificado também os dados entre 2015 e 2018 embora não considerados para a visualização dos dados, o que pode indicar um aumento na percepção de qualidade dos serviços oferecidos pelas prestadoras 
 
-(será??? Verificar reclamações quanto a falha de fornecimento, se aumentou ou diminuiu....disparado a quantidade maior de reclamações ainda é quanto a erros nas cobranças)
+O período estudado apresenta uma diminuição significativa no número de reclamações , o que pode ser verificado também os dados entre 2015 e 2018 embora não considerados para a visualização dos dados, o que pode indicar um aumento na percepção de qualidade dos serviços oferecidos pelas prestadoras ou também uma melhora na capacidade das teles em solucionar os problemas com seus assinantes antes de que o problema evolua para uma reclamação na Anatel.
 
- -- Obviamente a maior concentração de ocorrências se dá no estado de São Paulo, mas em termos proporcionais, o estado que apresenta o maior índice de reclamações é o de ....., o que pode indicar uma necessidade de maior investimento de infra-estrutura para aumento da cobertura de serviço nestas regiões.
 
 
 Fontes:
